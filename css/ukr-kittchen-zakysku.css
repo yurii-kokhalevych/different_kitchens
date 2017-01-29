@@ -1,0 +1,35 @@
+@media (min-width: 600px)
+body {
+    font-family: 'PT Sans', Arial, sans-serif;
+}
+
+ul, ol {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 0;
+}
+.list{
+	display: flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	
+}
+img{
+	flex-wrap:wrap;
+	padding: 5px;
+}
+.B_inner{
+	max-width: 1500px;
+}
+h1{
+	text-align: center;
+}
+span.title{
+padding-left: 30%;
+}
+h4{
+	text-align: center;
+}
+
+
