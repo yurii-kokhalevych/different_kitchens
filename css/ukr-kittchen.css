@@ -1,5 +1,6 @@
 div.pom{
 text-align: center;
+
 }
 h4{
 	font-family: bold;
@@ -7,5 +8,23 @@ h4{
 	font-size: 25px;
 }
 div.ukr{
-padding: 5px;
+padding: 10px;
+}
+
+div.golovuy{
+	border:2px solid white;
+	margin:auto;
+	width:60%;
+	margin-bottom:30px;
+	padding-bottom:10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+	background-color:white;
+	
+}
+body{
+	background:url(../img/ramka1.png);
+}
+img{
+	margin:auto;
+	width:50%;
 }
