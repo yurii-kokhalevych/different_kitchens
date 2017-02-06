@@ -15,6 +15,11 @@ ul, ol {
 	flex-wrap:wrap;
 	
 }
+.list>li{
+    
+    margin: auto;
+
+}
 img{
 	flex-wrap:wrap;
 	padding: 5px;
@@ -24,9 +29,10 @@ img{
 }
 h1{
 	text-align: center;
+
 }
 span.title{
-padding-left:35%;
+padding-left:30%;
 }
 h4{
 	text-align: center;
@@ -46,4 +52,7 @@ pre {
     width:54%;
 }
 
-
+body{
+    background: url(../img/f2.jpg);
+}
+ 

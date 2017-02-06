@@ -57,6 +57,7 @@ body{
     font-size: 14px;
     line-height: 20px;
     color: #333333;
+    
 }
 
 /*@media (max-width: 979px)
@@ -143,13 +144,13 @@ p{
 
 a:hover {
     text-decoration: none;
-    color: grey;
+    color: blue;
 }
 
 a {
     color:black;
     font-size: 18px;
-    font-family: bold;
+    /* font-family: bold; */
 }
 
 
